@@ -23,10 +23,12 @@ body {
   flex-wrap: wrap;
   width: 105px;
   height: 105px;
-  margin: auto;
 }
 
 .status {
   margin-bottom: 20px;
-  text-align: center;
+}
+
+.game {
+  display: flex;
 }
